@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "SimpleShooter",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "D:\\Program Files (x86)\\Epic\\UE_5.0"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"D:\\Users\\robmi\\Documents\\Unreal Projects\\SimpleShooter\\Intermediate\\Build\\Win64\\UnrealEditor\\Development\\SimpleShooter\\Definitions.SimpleShooter.h",
+			"D:\\Users\\robmi\\Documents\\Unreal Projects\\SimpleShooter\\Intermediate\\Build\\Win64\\SimpleShooterEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
